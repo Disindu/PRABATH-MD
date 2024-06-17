@@ -17,7 +17,7 @@
     },  
 
 
-    "GITHUB_AUTH_TOKEN": {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},
+    "GITHUB_AUTH_TOKEN": {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
       "description": "Put your github authtoken here.",
       "required": true
     }   
