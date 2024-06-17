@@ -11,9 +11,9 @@
       "required": true
     },  
 
-    "SESSION_ID": {PRABATH-MD~BjEBnRIY#5BEifL45IZXA2I5SyuYkV121irvvISpP5WE-alyGKh4},
+    "SESSION_ID": {PRABATH-MD~BjEBnRIY#5BEifL45IZXA2I5SyuYkV121irvvISpP5WE-alyGKh4
       "description": "Put the session-id here.",
-      "required": false
+      "required": true
     },  
 
 
